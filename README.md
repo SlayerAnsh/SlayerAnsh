@@ -1,2 +1,2 @@
-![Anshudhar github stats](https://github-readme-stats.vercel.app/api?username=SlayerAnsh&theme=chartreuse-dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlayerAnsh&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+|![Anshudhar github stats](https://github-readme-stats.vercel.app/api?username=SlayerAnsh&theme=chartreuse-dark&show_icons=true)|![](https://komarev.com/ghpvc/?username=SlayerAnsh&style=flat-square&color=red&label=PROFILE+VIEWS) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlayerAnsh&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+| --- | --- |
